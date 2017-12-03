@@ -61,7 +61,7 @@ pluralizeListTitles = false
 [params.intro]
   header    = "Jimmy's Website"
 
-  paragraph = "A blog of random things."
+  paragraph = "A place of random things."
 
   about     = "A Chinese American high school senior who does not know how to provide quality content."
 
@@ -101,22 +101,22 @@ pluralizeListTitles = false
   weight = 3
 
 [[menu.main]]
-  name = "Itemized"
-  url = "/itemized/"
-  identifier = "fa fa-list"
+  name = "Gallery"
+  url = "/gallery/"
+  identifier = "fa fa-picture-o"
   weight = 4
 
-[[menu.main]]
-  name = "Categories"
-  url = "/categories/"
-  identifier = "fa fa-sitemap"
-  weight = 5
+#[[menu.main]]
+#  name = "Categories"
+#  url = "/categories/"
+#  identifier = "fa fa-sitemap"
+#  weight = 5
 
-[[menu.main]]
-  name = "Contact"
-  url = "/contact/"
-  identifier = "fa fa-envelope-o"
-  weight = 6
+#[[menu.main]]
+#  name = "Contact"
+#  url = "/contact/"
+#  identifier = "fa fa-envelope-o"
+#  weight = 6
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
