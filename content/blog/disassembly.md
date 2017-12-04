@@ -5,7 +5,7 @@ date = "2017-12-01"
 description = ""
 featured = ""
 featuredalt = ""
-featuredpath = ""
+featuredpath = "img/gans356/disassemble2.jpg"
 linktitle = ""
 title = "Gans 356 Disassembly"
 type = "post"
@@ -20,3 +20,5 @@ I started by using a plastic blade to remove all the stickers. All the stickers 
 Next, it was time to disassembling my cube. Since there are metallic pieces within the cube, I could not rinse all the pieces off. Each cubelet is held together by a screw, and the centers contains a washer and a spring. Additionally, the core has 6 axes protruding from a plastic piece, one for each face of a cube. In total, there were 90 plastic pieces, 32 metal pieces, and the core.
 
 I dumped all of the plastic pieces into a bucket of soap water to wash off the silicon lubricant and other gunk from two years of use. Afterwards, I neatly laid out all the pieces on a paper towel to dry overnight.
+
+![Organized Disassembled Gans 356 Pieces] (https://github.com/twzheng974/personal-website/tree/master/static/img/gans356/disassemble1.jpg)
