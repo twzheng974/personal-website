@@ -1,4 +1,4 @@
-baseurl = "twzheng974.netlify.com/"
+baseurl = "https://twzheng974.netlify.com/"
 languageCode = "en-us"
 title = "Jimmy Zheng"
 theme = "hugo-future-imperfect"
@@ -63,7 +63,7 @@ pluralizeListTitles = false
 
   paragraph = "A place of random things."
 
-  about     = "A Chinese American high school senior who does not know how to provide quality content."
+  about     = "A high school senior who does not know how to provide quality content."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
