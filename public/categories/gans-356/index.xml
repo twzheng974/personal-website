@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gans 356 on Jimmy Zheng</title>
+    <link>/categories/gans-356/</link>
+    <description>Recent content in Gans 356 on Jimmy Zheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/gans-356/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gans 356 Disassembly</title>
+      <link>/blog/disassembly/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/disassembly/</guid>
+      <description>Sorry for the lack of pictures in this post, I did not consider documenting this when I started.
+This Black Friday, I bought a magnetic conversion kit and a set of stickers from SpeedCubeShop to upgrade my Gans 356 speedcube. It arrived two days ago (November 29, 2017), but my focus was on my new Surface Book (2015 model; i5/8GB/dGPU), so I did not begin until that night.
+I started by using a plastic blade to remove all the stickers.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fluff on Jimmy Zheng</title>
+    <link>/categories/fluff/</link>
+    <description>Recent content in Fluff on Jimmy Zheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/fluff/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About This Site</title>
+      <link>/blog/about/</link>
+      <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/about/</guid>
+      <description>This website is created by the Hugo Static Website Generator and themed with Future Imperfect, which is ported and modified by Julio Pescador and other contributors. If you want to see the source of the theme, it is available here.
+The few issues I have with theme is that there are no galleries and lack of custom font support. Maybe such things are possible, but my limited knowledge of CSS prevents me from doing those fancy tricks.</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>/blog/first/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/first/</guid>
+      <description> As per internet traditions, I must post &amp;ldquo;First&amp;rdquo; if I were to be first to comment (even though some people do it 10 minutes after others). So here it is:
+FIRST </description>
+    </item>
+    
+  </channel>
+</rss>
