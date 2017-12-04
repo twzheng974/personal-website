@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jimmy Zheng</title>
-    <link>https://twzheng974.netlify.com/</link>
+    <link>twzheng974.netlify.com/</link>
     <description>Recent content on Jimmy Zheng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://twzheng974.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="twzheng974.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About This Site</title>
-      <link>https://twzheng974.netlify.com/blog/about/</link>
+      <link>twzheng974.netlify.com/blog/about/</link>
       <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://twzheng974.netlify.com/blog/about/</guid>
+      <guid>twzheng974.netlify.com/blog/about/</guid>
       <description>This website is created by the Hugo Static Website Generator and themed with Future Imperfect, which is ported and modified by Julio Pescador and other contributors. If you want to see the source of the theme, it is available here.
 The few issues I have with theme is that there are no galleries and lack of custom font support. Maybe such things are possible, but my limited knowledge of CSS prevents me from doing those fancy tricks.</description>
     </item>
     
     <item>
       <title>Gans 356 Disassembly</title>
-      <link>https://twzheng974.netlify.com/blog/disassembly/</link>
+      <link>twzheng974.netlify.com/blog/disassembly/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://twzheng974.netlify.com/blog/disassembly/</guid>
+      <guid>twzheng974.netlify.com/blog/disassembly/</guid>
       <description>Sorry for the lack of pictures in this post, I did not consider documenting this when I started.
 This Black Friday, I bought a magnetic conversion kit and a set of stickers from SpeedCubeShop to upgrade my Gans 356 speedcube. It arrived two days ago (November 29, 2017), but my focus was on my new Surface Book (2015 model; i5/8GB/dGPU), so I did not begin until that night.
 I started by using a plastic blade to remove all the stickers.</description>
@@ -34,10 +34,10 @@ I started by using a plastic blade to remove all the stickers.</description>
     
     <item>
       <title>First</title>
-      <link>https://twzheng974.netlify.com/blog/first/</link>
+      <link>twzheng974.netlify.com/blog/first/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://twzheng974.netlify.com/blog/first/</guid>
+      <guid>twzheng974.netlify.com/blog/first/</guid>
       <description> As per internet traditions, I must post &amp;ldquo;First&amp;rdquo; if I were to be first to comment (even though some people do it 10 minutes after others). So here it is:
 FIRST </description>
     </item>
