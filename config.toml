@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://twzheng974.netlify.com/"
 languageCode = "en-us"
 title = "Jimmy Zheng"
 theme = "hugo-future-imperfect"
